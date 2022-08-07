@@ -617,6 +617,35 @@ label {
       rgba(92, 169, 251, 0.8) 100%
     );
   }
+  .intro h1 {
+    font-size: 36px;
+  }
+  .intro p {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  #team .team-img {
+    width: 160px;
+  }
+  header .intro-text {
+    padding-top: 200px;
+    padding-bottom: 100px;
+  }
+  .feature {
+    margin-bottom: 20px;
+  }
+  #features, #about, #team, #services, #portfolio, #testimonials, #contact {
+    padding: 50px 0;
+  }
+  #about img {
+    margin: 0 0 50px;
+  }
 }
 
 .cursor {
